@@ -1,4 +1,4 @@
-/*Andrade Vidal Fernando Adrian
+/*Yemahina
  * 21 de Octubre del 2019
  * Programa que imprime ASCII Art
  * 
@@ -7,7 +7,7 @@ package bandera1;
 
 /**
  *
- * @author FernandoPC
+ * @author Yemahina 
  */
 public class Bandera1 {
 
